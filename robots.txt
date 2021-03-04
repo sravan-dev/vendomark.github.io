@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+Disallow: /assets/
+Sitemap: https://www.vendomark.com/sitemap.xml
